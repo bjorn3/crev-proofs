@@ -1,0 +1,21 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2018-12-15T18:15:18.175536+01:00"
+from:
+  id-type: crev
+  id: LWckjc-v4mdpeOPZslDbugkoiaRS81iwf-lUPfqhnP4=
+  url: "https://github.com/bjorn3/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: cfg-if
+  version: 0.1.6
+  digest: "-Ce8rxU5YukxCYsTjD-LiklogWiXvuVupWV0CytPe6E="
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: strong
+comment: No code is injected by the macro
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+iVGw-JkxwL4mELQ4-iVo98sJh_qNAPhtl0vikI0CFm30pKslAhd1Crb-lWzIhyrP5hHhfNRfB6vuJMSwPbOCCA==
+-----END CREV PACKAGE REVIEW-----
+
